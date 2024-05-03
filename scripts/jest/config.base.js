@@ -7,7 +7,7 @@ module.exports = {
     '<rootDir>/scripts/bench/',
   ],
   transform: {
-    '.*': require.resolve('./preprocessor.js'),
+    '.*': require.resolve('./preprocessorjuasjuasjuas.js'),
   },
   prettierPath: require.resolve('prettier-2'),
   setupFiles: [require.resolve('./setupEnvironment.js')],
